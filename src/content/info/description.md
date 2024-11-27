@@ -1,9 +1,9 @@
-# Blog template
+# Hi there,I'm HuanXin 👏
 
-> This description will be shown on the main page of your blog above your most recent posts. It could be a short summary of what your blog is about, and what readers can expect.
+> Here I will record some of my wild thoughts in life and study !
 
-Minimalistic but opinionated blog template using [astro](https://astro.build/) and [svelte](https://svelte.dev/). aims to be super easy to deploy and use, with a focus on performance and SEO, ease-of-use and design (see all [features here](posts/features)).
+- **Technology Stack :** Go & Java & PHP & Lua
 
-This blog doubles as a tutorial on how to use this template, start by [setting up your github repo](posts/how-to-use), then [add some content](posts/adding-content). For more information read about [supported markdown features here](posts/markdown-style-guide).
+- **My Experience :** CyberKL & APISIX & Huya & Baidu
 
-Check out the [source code here](https://github.com/flo-bit/blog-template)
+- **My Interests :** Photography & Programming & Traveling & Shopping
