@@ -3,7 +3,7 @@ title: "第一场CTF比赛"
 description: "第一场CTF比赛"
 pubDate: "Apr 15 2023"
 published: true
-heroImage: "../../assets/01.jpg"
+heroImage: "../../assets/1.jpg"
 tags: ["技术"]
 ---
 ## 第一次参加CTF新生赛总结与反思
