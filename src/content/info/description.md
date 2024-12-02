@@ -6,5 +6,5 @@
         <h1><span><span>Own the 🏂 moment!</span></span></h1>
         <h1><span><span>Find your fire!</span></span></h1>
     </div>
-    <img src="../../assets/me.jpg" style="height:210px;" />
+    <img src="/home/src/assets/me.jpg" style="height:210px;"  alt="Me"/>
 </div>
