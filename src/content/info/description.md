@@ -6,5 +6,5 @@
         <h1><span><span>Own the 🏂 moment!</span></span></h1>
         <h1><span><span>Find your fire!</span></span></h1>
     </div>
-    <img src="/home/src/assets/me.jpg" style="height:210px;"  alt="Me"/>
+    <img src="https://github.com/HuanXin-Chen/HuanXin-Chen/raw/main/me.jpg" style="height:210px;"  alt="Me"/>
 </div>
