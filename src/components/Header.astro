@@ -40,10 +40,12 @@ const { active } = Astro.props;
       >*/}
       <HeaderLink
           href={BASE + "/pages/1"}
+          active={false}
           class="text-sm font-semibold leading-6">Blog</HeaderLink
       >
       <HeaderLink
           href="javascript:;"
+          active={false}
           onClick="javascript:history.back(-1);"
           class="text-sm font-semibold leading-6" >Back</HeaderLink
       >
