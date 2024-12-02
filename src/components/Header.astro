@@ -44,9 +44,8 @@ const { active } = Astro.props;
           class="text-sm font-semibold leading-6">Blog</HeaderLink
       >
       <HeaderLink
-          href="javascript:;"
+          href="javascript:history.back(-1);"
           active={false}
-          onClick="javascript:history.back(-1);"
           class="text-sm font-semibold leading-6" >Back</HeaderLink
       >
       {MANUAL_DARK_MODE ? <ThemeToggle /> : null}
