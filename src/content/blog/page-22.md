@@ -1,5 +1,5 @@
 ---
-title: "DDIA-分布式冗余"
+title: "二十岁纪念|HBD To ME"
 description: "又长大了一岁，有更多的时间做更多的事了！"
 pubDate: "Feb 15 2024"
 published: true
